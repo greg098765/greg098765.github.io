@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    
+        <meta charset="UTF-8">
+        <meta name="keywords" content="dogs, dogs for sale, customizable dogs">
+        <meta name="author" content="Tis me">
+        <meta 
+        <title> Dogs</title>
+    </head>
+    <body>
+        <header>
+            <div class = "container">
+                <h1>Custom Designed Dogs!</h1>
+            </div>
+        </header>
+    </body>
+</html>
