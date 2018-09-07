@@ -16,7 +16,7 @@ body{
 header{
     background:rgb(104, 146, 87);
     color:rgb(204, 241, 244    );
-    border-bottom:black 3px solid;
+    border-bottom:black 300px solid;
     min-height:100px;
 }
 
@@ -138,13 +138,10 @@ header a:hover{
 
 @media(max-width:770px){
     header h1, nav, .hat{
-        color:;
+        color: purple;
         float:none;
         text-align:center;
         width:100%;
-    }
-    body{
-        color:;
     }
     
 
@@ -159,8 +156,4 @@ header a:hover{
   opacity:0;
 }
 
-.pics{
-    width:80%;
-    margin:auto;
-    overflow:hidden;
-}
+

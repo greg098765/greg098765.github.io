@@ -138,13 +138,13 @@ header a:hover{
 
 @media(max-width:770px){
     header h1, nav, .hat{
-        color:orange;
+        
         float:none;
         text-align:center;
         width:100%;
     }
     body{
-        color:orange;
+
     }
     
 
